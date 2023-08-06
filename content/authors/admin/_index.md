@@ -22,7 +22,7 @@ organizations:
     url: https://www.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include using machine learning algorithms to improve cardiovascular flow modeling.
+bio: Scientific Machine Learning X Computational Fluid Dynamics X Cardiovascular Flows
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Hunor Csala is a PhD candidate in mechanical engineering at the University of Utah, working with Amir Arzani in the Scientific Computing and Imaging Institue. His research interests include data-driven methods for fluid flow modeling, especially in the cardiovascular context.
+Hunor Csala is a PhD candidate in mechanical engineering in the [Scientific Computing and Imaging Institue](https://sci.utah.edu) at the [University of Utah](https://utah.edu), working with [Amir Arzani](https://scholar.google.com/citations?user=mjkGw8QAAAAJ&hl=en&oi=ao) in the [Computational Biomechanics Group](https://bio.mech.utah.edu). His research revolves around applying data-driven methods for fluid flow modeling, especially in the context of cardiovascular flows. He is interested in reduced order modeling, denoising and physics-informed machine learning.
 {style="text-align: justify;"}

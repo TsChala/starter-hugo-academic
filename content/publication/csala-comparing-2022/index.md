@@ -11,5 +11,7 @@ url_pdf: "http://www.sci.utah.edu/publications/Csa2022a/5.0127284.pdf"
 url_code: "https://github.com/amir-cardiolab/Nonlinear-dimensionality-reduction"
 url_video: "https://www.youtube.com/watch?v=gTVQt9QVG1o" 
 doi: "10.1063/5.0127284"
+projects:
+  - NDR
 ---
 

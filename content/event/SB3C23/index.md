@@ -3,7 +3,7 @@
 
 title: Enhancing corrupt cardiovascular flow data with machine learning
 event: SB3C 2023
-event_url:
+event_url: https://sb3c.org
 location: Vail, CO, US
 address:
   street:
@@ -11,17 +11,17 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Summer Biomechanics, Bioengineering, and Biotransport Conference 2023 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-07-30T11:52:32-06:00
-date_end: 2023-07-30T11:52:32-06:00
-all_day: false
+date: 2023-06-05T11:52:32-06:00
+#date_end: 2023-07-30T11:52:32-06:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-07-30T11:52:32-06:00
+publishDate: 2023-06-05T11:52:32-06:00
 
 authors: []
 tags: []
@@ -49,8 +49,8 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: 'uploads/Csala_SB3C23.pdf'
+url_video: "https://youtu.be/26jsUECMLNU"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,3 +66,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+I presented my work in the Machine Learning section.
+
+**Summary:**
+
+Obtaining clean, high resolution velocity measurements of blood flow inside small arteries such as cerebral vasculature is challenging, as the existing experimental techniques have several limitations. Time-resolved three-dimensional phase contrast magnetic resonance imaging (4D flow MRI) is a popular approach in research settings, however it is constrained by low spatio-temporal resolution, noise, and other artifacts. Particle image velocimetry (PIV) often considered the gold-standard in experimental fluid dynamics also suffers from some limitations. Therefore, handling corrupt blood flow data is key challenge towards developing more accurate and robust cardiovascular flow models. There are well developed algorithms in the machine learning community that can tackle similar issues, such as data imputation, denoising or outlier detection. Existing methods have been less frequently used and leveraged for complex real-world fluid flow problems, such as cardiovascular flows. Specifically, we do not understand which one of these approaches commonly used in the machine learning community perform better for hemodynamics data. This study investigates and compares several techniques for filling in missing
+values and denoising unsteady blood flow data in an image-based 3D intracranial aneurysm model
