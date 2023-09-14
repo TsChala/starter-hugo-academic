@@ -66,7 +66,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I presented my work in the Machine Learning section.
+I presented my work in the Machine Learning in Biofluids section.
 
 **Summary:**
 
